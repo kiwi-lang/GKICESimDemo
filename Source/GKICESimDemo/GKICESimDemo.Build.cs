@@ -10,6 +10,6 @@ public class GKICESimDemo : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "ChaosVehicles", "HeadMountedDisplay", "PhysicsCore" });
 
-		PublicDefinitions.Add("HMD_MODULE_INCLUDED=1");
+		PublicDefinitions.Add("HMD_MODULE_INCLUDED=0");
 	}
 }
