@@ -1,0 +1,3 @@
+[submodule "Plugins/GKICESim"]
+	path = Plugins/GKICESim
+	url = git@github.com:kiwi-lang/GKICESim.git
